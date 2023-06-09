@@ -1,3 +1,1 @@
-/* eslint-disable */
-require = require('esm')(module);
-module.exports = require('./iris');
+export * from "./iris.js";
